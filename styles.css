@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:rgb(216, 207, 207)   
+}
+
+.header{
+    background-color: white;
+}
+.header h1{
+    width: 700px;
+    margin:0px auto;
+    padding: 10px
+}
+.post {
+    width: 700px;
+    margin: auto;
+    margin-top:45px;
+    background-color: white;
+}
+.post-header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-left: 8px;
+    padding-right: 8px
+}
+.post-image img{
+    width: 100%
+
+}
+.post-footer{
+    padding: 8px 8px;
+    
+}
